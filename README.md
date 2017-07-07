@@ -1,2 +1,2 @@
 # WebApp
-this is a project file for contiuing development. it not meant for download yet.
+This is a project file for continuing development. It not meant for download yet. 
